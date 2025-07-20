@@ -1,5 +1,5 @@
 
-## 💬 Sentiment Analysis & Visualization – Social Media Insights
+## 🚦 Traffic Accident Analysis & Visualization – US Accidents Dataset
 
 **Internship Role:** Data Science Intern
 **Organization:** Prodigy InfoTech
@@ -9,30 +9,30 @@
 
 ### 🔍 Task Overview
 
-As part of my internship at **Prodigy InfoTech**, I conducted **sentiment analysis** on social media data to explore public opinion and emotional responses related to various topics or brands. This involved using **NLP techniques** to classify sentiments as **positive**, **negative**, or **neutral**, followed by creating visualizations to display trends and keyword associations.
+As part of my internship at **Prodigy InfoTech**, I analyzed a large-scale traffic accident dataset to identify patterns related to **road conditions**, **weather**, and **time of day**. The objective was to uncover insights into accident trends, visualize **hotspots**, and highlight the factors contributing to accident severity using Python-based data science tools.
 
 ---
 
 ### 📁 Dataset
 
-🔗 [Sample Dataset – Task 4](https://github.com/Prodigy-InfoTech/data-science-datasets/tree/main/Task%204)
+🔗 [US Accidents Dataset – Kaggle](https://www.kaggle.com/datasets/sobhanmoosavi/us-accidents)
 
 ---
 
 ### 🛠️ Tools & Technologies
 
-* **Python**, **Pandas**, **NLTK**, **TextBlob**, **VADER**
-* **Seaborn**, **Matplotlib**, **WordCloud**
-* **Jupyter Notebook**
+* **Python**, **Pandas**, **NumPy**
+* **Seaborn**, **Matplotlib**, **Plotly**
+* **Jupyter Notebook**, **Folium (for mapping hotspots)**
 
 ---
 
 ### 📌 Key Highlights
 
-* Cleaned and preprocessed text data from social platforms
-* Applied polarity scoring for sentiment classification
-* Created visual insights through bar plots and word clouds
-* Identified public sentiment trends around chosen keywords
+* Cleaned and filtered over 2.8 million accident records
+* Explored correlations between accident severity and factors like visibility, weather, and time
+* Visualized accident frequency by hour, day, and state
+* Mapped **accident hotspots** using interactive geo-visualizations
 
 ---
 
@@ -47,5 +47,4 @@ As part of my internship at **Prodigy InfoTech**, I conducted **sentiment analys
 📧 Email: [mpranav23it@student.mes.ac.in](mailto:mpranav23it@student.mes.ac.in)
 📇 LinkedIn: [Pranav Mohite](https://www.linkedin.com/in/pranav-mohite-05a36a2b2)
 🌐 GitHub: [github.com](https://github.com/)
-
 
